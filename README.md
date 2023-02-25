@@ -1,2 +1,2 @@
 # Donchian-Channels-trading-strategy
-Donchian Channels trading strategy. For backtesting
+A backtesting approach for the Donchian Channels trading strategy.
